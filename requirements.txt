@@ -1,0 +1,7 @@
+aiogram
+environs
+aioschedule
+psycopg-binary
+ldap3
+flask
+psycopg
